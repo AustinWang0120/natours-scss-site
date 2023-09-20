@@ -1,0 +1,25 @@
+// import everything from the abstracts folder
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+// import everything from the base folder
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+// import everything from the components folder
+@import "components/bg-video";
+@import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/form";
+@import "components/popup";
+@import "components/story";
+// import everything from the layout folder
+@import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/navigation";
+// import everything from the pages folder
+@import "pages/home";
